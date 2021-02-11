@@ -1,0 +1,26 @@
+{
+  "name": "cheerio",
+  "version": "1.0.0",
+  "description": "web scrapping lesson",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aharri64/cheerio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aharri64/cheerio/issues"
+  },
+  "homepage": "https://github.com/aharri64/cheerio#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "node-fetch": "^2.6.1",
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.0"
+  }
+}
